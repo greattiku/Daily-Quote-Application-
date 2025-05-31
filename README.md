@@ -1,16 +1,24 @@
-# daily_qoutes_app
+# Daily-Quote-Application-
+Daily Quote is a mobile application that provides users with a daily dose of inspiration and motivation. With a vast collection of quotes from renowned authors and thinkers, this app aims to help users start their day on a positive note. Users can mark their favorite quotes and view them later.
 
-A new Flutter project.
+Features
+- Daily quote: Receive a new quote every day to start your day on a positive note
+- Favorite quotes: Mark quotes that resonate with you and view them later
+- Local persistence: Quotes are stored locally on your device, so you can access them anytime
 
-## Getting Started
+Target Audience
+Daily Quote is suitable for anyone looking for inspiration and motivation. Whether you're a student, professional, or simply someone looking for a daily dose of positivity, this app is designed to be accessible and enjoyable for all.
 
-This project is a starting point for a Flutter application.
+Technical Details
+- Built using Flutter
+- Uses SharedPreferences for local data storage
 
-A few resources to get you started if this is your first Flutter project:
+Future Development
+Future updates may include:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Quote categorization and filtering
+- Quote sharing functionality
+- Integration with various any platform like social media application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contribution
+If you're interested in contributing to Daily Quote, please feel free to submit a pull request.
