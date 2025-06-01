@@ -20,5 +20,8 @@ Future updates may include:
 - Quote sharing functionality
 - Integration with various any platform like social media application.
 
-Contribution
-If you're interested in contributing to Daily Quote, please feel free to submit a pull request.
+Live Demo
+
+You can try out the live application by clicking the link below:
+https://appetize.io/app/b_d6b64vhmfjf66ficvuvhjhxmda
+
